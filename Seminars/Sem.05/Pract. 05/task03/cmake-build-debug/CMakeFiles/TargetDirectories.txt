@@ -1,0 +1,3 @@
+C:/Users/AZ/Documents/GitHub/Object-oriented_programming_FMI/Seminars/Sem.05/Pract. 05/task03/cmake-build-debug/CMakeFiles/task03.dir
+C:/Users/AZ/Documents/GitHub/Object-oriented_programming_FMI/Seminars/Sem.05/Pract. 05/task03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AZ/Documents/GitHub/Object-oriented_programming_FMI/Seminars/Sem.05/Pract. 05/task03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
